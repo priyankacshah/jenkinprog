@@ -1,5 +1,5 @@
 
-public class jobchain01 {
+public class jobchain02 {
 
 public static void main(String[] args)
 {
